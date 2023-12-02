@@ -1,4 +1,4 @@
-FROM node:6.9.1
+FROM node:21.3.0
 
 MAINTAINER Thiago Paes <mrprompt@gmail.com>
 
